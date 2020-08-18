@@ -25,9 +25,9 @@ function Header() {
             </div>
 
             <div className="header__icons">
-                <VideoCallIcon />
-                <AppsIcon />
-                <NotificationsIcon />
+                <VideoCallIcon className="header__icon" />
+                <AppsIcon className="header__icon" />
+                <NotificationsIcon className="header__icon" />
                 <Avatar
                     src="https://avatars0.githubusercontent.com/u/58652823?s=460&u=cedb73f3b5bdab9d851457607b3185f21b9905d1&v=4"
                     alt="Nilesh Pant"

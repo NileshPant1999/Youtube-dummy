@@ -28,6 +28,7 @@
 
 .header__input > input {
     flex:1 ;
+    padding: 5px;
 }
 
 .header__inputButton {
